@@ -16,8 +16,3 @@ A simple and interactive weather app that provides real-time weather updates for
 1. Enter the name of any city in the search bar.  
 2. Click the "Search" button.  
 3. View real-time weather details including temperature, humidity, and wind speed.  
-
-## Installation  
-1. Clone this repository:  
-   ```sh
-   git clone https://github.com/YourGitHubUsername/weather-app.git
